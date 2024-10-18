@@ -30,7 +30,7 @@ function OurPeopleSection() {
       {
         name: "Farrukh Ansari",
         title: "Director Business & Financial Advisory – Pakistan",
-        image: "https://abasin-consult.vercel.app/our-people",
+        image: "https://i.pinimg.com/564x/82/a3/3a/82a33a43be59e913b58efbdfd64e281e.jpg",
         brief: "Provides strategic business advisory services to optimize operations.",
       },
       {
