@@ -12,7 +12,7 @@ function OurPeopleSection() {
       {
         name: "Ali Awais",
         title: "Director Legal Services – Pakistan",
-        image: "https://via.placeholder.com/150?text=Ali+Awais",
+        image: "https://i.pinimg.com/564x/82/a3/3a/82a33a43be59e913b58efbdfd64e281e.jpg",
         brief: "Specializes in business law, regulatory frameworks, and corporate compliance.",
       },
     ];
@@ -21,7 +21,7 @@ function OurPeopleSection() {
       {
         name: "Asad Ijaz",
         title: "Director Tax, Accounting, and Audit – Pakistan and Global Services",
-        image: "https://via.placeholder.com/150?text=Asad+Ijaz",
+        image: "https://i.pinimg.com/564x/82/a3/3a/82a33a43be59e913b58efbdfd64e281e.jpg",
         brief: "Chartered accountant with expertise in audit, taxation, and financial planning.",
       },
     ];
@@ -36,13 +36,13 @@ function OurPeopleSection() {
       {
         name: "Othman Shaukat",
         title: "Director Business & Financial Advisory – UK, Europe, Middle East",
-        image: "https://via.placeholder.com/150?text=Othman+Shaukat",
+        image: "https://i.pinimg.com/564x/82/a3/3a/82a33a43be59e913b58efbdfd64e281e.jpg",
         brief: "Expert in cross-border financial advisory and market development.",
       },
       {
         name: "Omar Majid",
         title: "Director Business & Financial Advisory – UK, Europe, Middle East",
-        image: "https://via.placeholder.com/150?text=Omar+Majid",
+        image: "https://i.pinimg.com/564x/82/a3/3a/82a33a43be59e913b58efbdfd64e281e.jpg",
         brief: "Specializes in financial strategy and business transformation.",
       },
     ];
@@ -51,13 +51,13 @@ function OurPeopleSection() {
       {
         name: "Sharjeel Khwaja",
         title: "Director Transaction Advisory & Business Development – Pakistan",
-        image: "https://via.placeholder.com/150?text=Sharjeel+Khwaja",
+        image: "https://i.pinimg.com/564x/82/a3/3a/82a33a43be59e913b58efbdfd64e281e.jpg",
         brief: "Expert in mergers, acquisitions, and transaction advisory.",
       },
       {
         name: "Muhammad Hadi",
         title: "Director Transaction Advisory & Business Development – Middle East",
-        image: "https://via.placeholder.com/150?text=Muhammad+Hadi",
+        image: "https://i.pinimg.com/564x/82/a3/3a/82a33a43be59e913b58efbdfd64e281e.jpg",
         brief: "Focuses on business development and advisory services for the Middle East.",
       },
     ];
